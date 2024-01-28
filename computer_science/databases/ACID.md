@@ -1,0 +1,4 @@
+- **Atomicity** - transaction is treated as single unit. It fully happens or does not happen at all
+- **Consistency**  - transaction brings db from one valid state to another. guarantees that rules and constrains are applied
+- **[[Isolation]]** - guarantees that concurrently running transactions do not affect each other
+- **Durability** - Once transaction been committed it will remain so despite power outrages and system errors

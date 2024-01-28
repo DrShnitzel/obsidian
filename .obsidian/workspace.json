@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "8b835eb2b05eb205",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d0465cca07d78e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cec045245d46a3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "630650c32e18306f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d535dbb0f177c785",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "953421359f47c825",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8c6c42e5bb9df23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39b924a1b789684a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a731d47721e1e59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fa838514c0db76d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fff6fdcfa884c8fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f825da796b84b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5a41d68bf140cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe3c89985ae681d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b4319cfc2b4e848",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a0c6bcd7dbbb634",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "created on dropbox.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "39b924a1b789684a",
+  "lastOpenFiles": [
+    "created on dropbox.md",
+    "Untitled.md",
+    "computer_science/http/Untitled.md",
+    "computer_science/http/TODO HTTP 2.md",
+    "computer_science/golang/string.Build.md",
+    "computer_science/databases/TODO GIN.md",
+    "computer_science/databases/WAL.md",
+    "computer_science/databases/TODO Windows.md",
+    "computer_science/databases/Isolation.md",
+    "computer_science/databases/TODO B-tree.md",
+    "computer_science/databases/terms/Phantom read.md",
+    "computer_science/databases/terms/Page.md",
+    "computer_science/databases/terms/Non-repeatable read.md",
+    "computer_science/databases/terms/Dirty read.md",
+    "computer_science/databases/terms",
+    "computer_science/databases/lock levels.md",
+    "computer_science/databases/ACID.md",
+    "computer_science/solid",
+    "computer_science/OOP",
+    "computer_science/http",
+    "computer_science/golang",
+    "computer_science/databases",
+    "Welcome.md",
+    "computer_science",
+    "untitled folder"
+  ]
+}
